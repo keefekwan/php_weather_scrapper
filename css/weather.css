@@ -1,0 +1,36 @@
+html, body {
+    height: 100%; /* Set height for body for the picture background */
+}
+
+.container {
+    background-image: url('../images/1.jpeg');
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    padding-top: 100px;
+
+}
+
+.center {
+    text-align: center;
+}
+
+.white {
+    color: white;
+}
+
+p {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.alert {
+    margin-top: 20px;
+    display: none;
+}
